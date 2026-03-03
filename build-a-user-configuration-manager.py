@@ -44,6 +44,7 @@ def view_settings(test_settings):
     result += "\n".join(lines) + "\n"
     return result
 
+
 print(view_settings(test_settings))
 
 ** end of main.py **
