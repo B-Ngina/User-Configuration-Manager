@@ -2,7 +2,11 @@
 A Python project that manages user settings (Theme, Notifications, Volume) using dictionaries and tuples.
 
 ## Features
- Add Settings: Safely add new settings in lowercase.
- Update Settings: Modify existing settings with validation.
- Delete Settings: Remove settings by key.
- View Settings: Display a formatted, capitalized list of all current configurations.
+ Add Settings: Safely adds new settings in lowercase.
+ 
+ Update Settings: Modifies existing settings with validation.
+ 
+ Delete Settings: Removes settings by key.
+ 
+ View Settings: Displays a formatted, capitalized list of
+ all current configurations.
